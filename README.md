@@ -17,4 +17,4 @@ If everything is working properly, the object detector will initialize for about
 
 
 *Including the Dataset provided we have also include our images for better accuracy. 
-And those images are uploaded with this github repository. *
+And those images are uploaded with this github repository. 
