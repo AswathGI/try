@@ -13,3 +13,8 @@ Step3:
 To run any of the scripts, type “idle” in the Anaconda Command Prompt (with the “tensorflow1” virtual environment activated) and press ENTER. This will open IDLE, and from there, you can open any of the scripts and run them.
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
+
+
+
+*Including the Dataset provided we have also include our images for better accuracy. 
+And those images are uploaded with this github repository. *
